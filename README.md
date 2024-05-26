@@ -2,6 +2,7 @@
    - [Installation](https://github.com/CodeWizardRakesh/Super-Resolution#installation)
    - [Usage](https://github.com/CodeWizardRakesh/Super-Resolution/blob/main/README.md#usage)
    - [Sample Results](https://github.com/CodeWizardRakesh/Super-Resolution/blob/main/README.md#sample-results)
+   - [Let's Compare]()
 ## Installation
    ``` bash
    pip install pytorch
