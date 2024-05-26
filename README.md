@@ -38,13 +38,13 @@ git clone https://github.com/CodeWizardRakesh/Super-Resolution
 ## Sample Results
 - Follow this link
   
-![Screenshots](Images/run.png)
+![Screenshots]()
 - Graio interface
   
-![Screenshots](Images/gradio.png)
+![Screenshots]()
 - Predicted Output
   
-![Screenshots](Images/gradio2.png)
+![Screenshots]()
 
 
 ***If you see this probably you have gone through this repositary. Thank you so much for taking time to go through this repository***
