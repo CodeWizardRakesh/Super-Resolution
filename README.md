@@ -1,7 +1,7 @@
 # Super-Resolution
-   - [Installation](https://github.com/CodeWizardRakesh/Brain-Tumor-Detection/blob/main/README.md#installation)
-   - [Usage](https://github.com/CodeWizardRakesh/Brain-Tumor-Detection/blob/main/README.md#dataset)
-   - [Sample Results](https://github.com/CodeWizardRakesh/Brain-Tumor-Detection/blob/main/README.md#sample-results)
+   - [Installation](https://github.com/CodeWizardRakesh/Super-Resolution/edit/main/README.md#installation)
+   - [Usage](https://github.com/CodeWizardRakesh/Super-Resolution/edit/main/README.md#usage)
+   - [Sample Results](https://github.com/CodeWizardRakesh/Super-Resolution/edit/main/README.md#sample-results)
 ## Installation
    ``` bash
    pip install tensorflow
