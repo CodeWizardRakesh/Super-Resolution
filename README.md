@@ -1,4 +1,7 @@
 # Super-Resolution
+Welcome to the Super-Resolution project! This repository contains code and resources for enhancing the resolution of images using the Enhanced Super-Resolution Generative Adversarial Network (ESRGAN). ESRGAN is a state-of-the-art model designed to improve the visual quality of upscaled images significantly upto 4x.
+
+## Content
    - [Installation](https://github.com/CodeWizardRakesh/Super-Resolution#installation)
    - [Usage](https://github.com/CodeWizardRakesh/Super-Resolution/blob/main/README.md#usage)
    - [Sample Results](https://github.com/CodeWizardRakesh/Super-Resolution/blob/main/README.md#sample-results)
