@@ -33,7 +33,13 @@ git clone https://github.com/CodeWizardRakesh/Super-Resolution
 ![run_cmd](https://github.com/CodeWizardRakesh/Super-Resolution/blob/main/images/run.png)
 ## Sample Results
 - Gradio Interface
-![gradio_interface]()
+
+![gradio_interface](https://github.com/CodeWizardRakesh/Super-Resolution/blob/main/images/Gradio%20interface.png)
+
+- Super-Resolution Ouput
+  
+![Super-Resolution Ouput_screenshot]()
+
 
 
 
