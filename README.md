@@ -22,7 +22,7 @@
 ## Step 1 :
  - Clone this repositary
  ```bash
- git clone https://github.com/CodeWizardRakesh/Brain-Tumor-Detection
+git clone https://github.com/CodeWizardRakesh/Super-Resolution
  ```
  - use '!' symbol in the front if you are using jupyter notebook.
 ## Step 2 :
