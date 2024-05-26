@@ -40,6 +40,10 @@ git clone https://github.com/CodeWizardRakesh/Super-Resolution
   
 ![Super-Resolution Ouput_screenshot](https://github.com/CodeWizardRakesh/Super-Resolution/blob/main/images/high%20res%20output.png)
 
+## Let's Compare
+
+![low_res]()      ![high_res]()
+
 
 
 
