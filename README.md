@@ -1,5 +1,5 @@
 # Super-Resolution
-   - [Installation](https://github.com/CodeWizardRakesh/Super-Resolution/edit/main/README.md#installation)
+   - [Installation](https://github.com/CodeWizardRakesh/Super-Resolution#installation)
    - [Usage](https://github.com/CodeWizardRakesh/Super-Resolution/edit/main/README.md#usage)
    - [Sample Results](https://github.com/CodeWizardRakesh/Super-Resolution/edit/main/README.md#sample-results)
 ## Installation
