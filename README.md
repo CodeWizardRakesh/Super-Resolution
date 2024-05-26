@@ -4,7 +4,7 @@
    - [Sample Results](https://github.com/CodeWizardRakesh/Super-Resolution/blob/main/README.md#sample-results)
 ## Installation
    ``` bash
-   pip install tensorflow
+   pip install pytorch
    ```
    ``` bash
    pip install opencv-python
