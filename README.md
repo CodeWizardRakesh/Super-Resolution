@@ -26,6 +26,11 @@ git clone https://github.com/CodeWizardRakesh/Super-Resolution
  ```
  - use '!' symbol in the front if you are using jupyter notebook.
 ## Step 2 :
+   - Run main.py
+   ```bash
+      python main.py
+   ```
+   - This the main file that makes you to upscale the image you upload via gradio interface.
 ## Step 3:
 ## Step 4:
    - Run tumor_detection.py file
