@@ -43,7 +43,7 @@ git clone https://github.com/CodeWizardRakesh/Super-Resolution
 ## Let's Compare
 
 ![lowvshigh](https://github.com/CodeWizardRakesh/Super-Resolution/blob/main/images/low%20vs%20high.png)
-
+![lowvshigh2](https://github.com/CodeWizardRakesh/Super-Resolution/blob/main/images/low%20vs%20high.png)
 
 
 
