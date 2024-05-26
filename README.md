@@ -42,7 +42,7 @@ git clone https://github.com/CodeWizardRakesh/Super-Resolution
 
 ## Let's Compare
 
-![low_res]()      ![high_res]()
+![low_res](https://github.com/CodeWizardRakesh/Super-Resolution/blob/main/LR/comic.png)      ![high_res]()
 
 
 
