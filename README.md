@@ -10,9 +10,6 @@
    pip install opencv-python
    ```
    ``` bash
-   pip install pillow
-   ```
-   ``` bash
    pip install gradio
    ```
    ``` bash
